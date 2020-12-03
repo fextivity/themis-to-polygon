@@ -136,7 +136,7 @@ For(test, 0, tests){
         vector <elem> elems;
         ifstream in(path1inp.c_str());
         
-        // Push all input from in into elems, and then find hash of them
+        // Push all content from in into elems, and then find hash of them
         // EDITING START HERE
         // Sample: Input a, b; Output a + b
 
@@ -158,7 +158,7 @@ For(test, 0, tests){
         vector <elem> elems;
         ifstream in(path1out.c_str());
         
-        // Push all input from in into elems, and then find hash of them
+        // Push all content from in into elems, and then find hash of them
         // EDITING START HERE
         // Sample: Input a, b; Output a + b
 
